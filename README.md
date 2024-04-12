@@ -1,3 +1,5 @@
+来源：inline hook from [xHook](https://github.com/light-echo-3/xHook_LE/blob/master/docs/overview/android_plt_hook_overview.zh-CN.md)
+
 # Frida
 
 Dynamic instrumentation toolkit for developers, reverse-engineers, and security
